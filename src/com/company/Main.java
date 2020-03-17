@@ -49,7 +49,7 @@ public class Main {
             write.println(service.szyfrowanie(osoba));
         }
         write.close();
-
+        System.out.println("HI");
     }
 
 
